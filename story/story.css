@@ -95,13 +95,13 @@
   transition: all 0.6s ease;
 }
 #features_others .features_pages #feature1_img {
-  background-image: url(media/viswag_pic.jpeg);
+  background-image: url(../media/viswag_pic.jpeg);
 }
 #features_others .features_pages #feature2_img {
-  background-image: url(media/gowtham_pic.jpeg);
+  background-image: url(../media/gowtham_pic.jpeg);
 }
 #features_others .features_pages #feature3_img {
-  background-image: url(media/shivamani_pic.jpeg);
+  background-image: url(../media/shivamani_pic.jpeg);
 }
 #features_others .features_pages .feature_heading_div {
   font-family: "PT Mono", monospace;
